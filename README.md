@@ -1,2 +1,2 @@
 # CapstoneProject
-AutoAI Watsonx Machine Learning-HCAI
+Build Machine Learning Models Automatically (AutoAI) Watsonx - HCAI
