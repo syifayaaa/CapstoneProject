@@ -34,3 +34,18 @@ Sumber dataset berasal dari Jakarta Open Data: https://data.jakarta.go.id/datase
 
 
 ## Kesimpulan
+Berdasarkan hasil prediksi Indeks Pencemaran Air di DKI Jakarta menggunakan AutoAI Watsonx, dapat disimpulkan bahwa:
+
++ Top Rank Pipeline untuk prediksi index pencemaran adalah Pipeline 8.
+
++ Algoritma yang digunakan adalah XGB Regressor. Algoritma ini yang paling akurat dan efektif untuk memprediksi indeks pencemaran air sumur di DKI Jakarta.
+
++ Algoritma tersebut mencapai tingkat RMSE (Root Mean Square Error) sebesar 0.321. Angka ini menunjukkan bahwa algoritma memiliki kemampuan yang baik dalam mengklasifikasikan indeks pencemaran air sumur di DKI Jakarta.
+
++ Enhancements yang berperan dalam meningkatkan kinerja algoritma XGB Regressor dengan mengoptimalkan parameter dan mengubah fitur yang digunakan, yaitu 1st dan 2nd Hyperparameter Optimization serta Feature Engineering.
+
++ Feature important yang mempengaruhi indeks pencemaran air sumur di DKI Jakarta adalah lokasi pengambilan titik contoh air.
+
++ Indeks pencemaran air sumur di DKI Jakarta yang paling mempengaruhi sebesar 1,38 dengan parameter zat padat terlarut 254 mg/L di Bangka.
+
+Dengan hasil tersebut, memberikan pemahaman yang lebih baik tentang seberapa besar indeks pencemaran air sumur di DKI Jakarta. Algoritma yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, algoritma ini dapat digunakan sebagai alat yang berguna dalam memprediksi indeks pencemaran air sumur di DKI Jakarta.
