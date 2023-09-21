@@ -2,7 +2,7 @@
 Build Machine Learning Models Automatically (AutoAI) Watsonx - HCAI
 
 ## Capstone Project Ideas
-Prediksi Index Pencemaran Air Sumur di DKI Jakarta.
+Prediksi Index Pencemaran Air Sumur di Provinsi DKI Jakarta.
 
 ## Latar Belakang
 Mengingat kondisi air tanah yang semakin rentan terhadap pencemaran akibat pertumbuhan pesat kota dan aktivitas manusia. DKI Jakarta, sebagai salah satu wilayah dengan tingkat kepadatan penduduk tinggi, memiliki banyak sumur air tanah yang digunakan untuk memenuhi kebutuhan air bersih penduduknya. Namun, dengan urbanisasi yang cepat, pembangunan infrastruktur yang besar, dan aktivitas industri yang tinggi, risiko pencemaran air tanah semakin meningkat. Pencemaran ini dapat berasal dari berbagai sumber, termasuk limbah industri, limbah domestik, dan penggunaan pupuk berlebihan yang dapat mengganggu kualitas air tanah. Oleh karena itu, prediksi indeks pencemaran air sumur menjadi sangat penting untuk mengambil tindakan preventif yang diperlukan, mengurangi risiko kesehatan masyarakat, dan menjaga sumber daya air yang penting ini agar tetap berkelanjutan.
