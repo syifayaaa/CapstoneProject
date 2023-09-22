@@ -31,6 +31,13 @@ Sumber dataset berasal dari Jakarta Open Data: https://data.jakarta.go.id/datase
 *	[IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) - IBM Cloud™ Object Storage makes it possible to store practically limitless amounts of data, simply and cost effectively.
 
 ## Hasil
+![CapstoneProject/Gambar/Screenshot 2023-09-11 195827.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20195827.png)
+![CapstoneProject/Gambar/Screenshot 2023-09-11 200357.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20200357.png)
+![CapstoneProject/Gambar/Screenshot 2023-09-11 195838.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20195838.png)
+![CapstoneProject/Gambar/Screenshot 2023-09-11 195915.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20195915.png)
+![CapstoneProject/Gambar/Screenshot 2023-09-11 195937.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20195937.png)
+
+Hasil prediksi menggunakan Watsonx pada Build machine learning models automatically. Indeks pencemaran air sumur di DKI Jakarta yang paling mempengaruhi sebesar 1,38 dengan parameter zat padat terlarut 254 mg/L di Bangka.
 ![CapstoneProject/Gambar/Screenshot 2023-09-11 210142.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Screenshot%202023-09-11%20210142.png)
 
 ## Kesimpulan
@@ -48,4 +55,4 @@ Berdasarkan hasil prediksi Indeks Pencemaran Air di DKI Jakarta menggunakan Auto
 
 + Indeks pencemaran air sumur di DKI Jakarta yang paling mempengaruhi sebesar 1,38 dengan parameter zat padat terlarut 254 mg/L di Bangka.
 
-Dengan hasil tersebut, memberikan pemahaman yang lebih baik tentang seberapa besar indeks pencemaran air sumur di DKI Jakarta. Algoritma yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, algoritma ini dapat digunakan sebagai alat yang berguna dalam memprediksi indeks pencemaran air sumur di DKI Jakarta.
+Dengan hasil tersebut, memberikan pemahaman yang lebih baik tentang seberapa besar indeks pencemaran air sumur di DKI Jakarta. Algoritma yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimasi parameter dan rekayasa fitur. Implikasinya, algoritma ini dapat digunakan sebagai alat yang berguna dalam memprediksi indeks pencemaran air sumur di DKI Jakarta.
