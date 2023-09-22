@@ -26,7 +26,7 @@ Tujuan dari melakukan prediksi indeks pencemaran air sumur di DKI Jakarta mencak
 Sumber dataset berasal dari Jakarta Open Data: https://data.jakarta.go.id/dataset/data-hasil-pengujian-kualitas-air-sumur-provinsi-dki-jakarta-tahun-2017/resource/7bddbf71dff0859907ea7819ba815779
 
 ## Flowchart
-
+![CapstoneProject/Gambar/Flowchart AutoAI.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Flowchart%20AutoAI.png)
 
 ## Included components
 *	[IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) - IBM Watson® Studio helps data scientists and analysts prepare data and build models at scale across any cloud.
