@@ -31,7 +31,7 @@ Sumber dataset berasal dari Jakarta Open Data: https://data.jakarta.go.id/datase
 *	[IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) - IBM Cloud™ Object Storage makes it possible to store practically limitless amounts of data, simply and cost effectively.
 
 ## Hasil
-
+![architecture](CapstoneProject/Gambar/Screenshot 2023-09-11 210142.png)
 
 ## Kesimpulan
 Berdasarkan hasil prediksi Indeks Pencemaran Air di DKI Jakarta menggunakan AutoAI Watsonx, dapat disimpulkan bahwa:
