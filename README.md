@@ -27,6 +27,10 @@ Sumber dataset berasal dari Jakarta Open Data: https://data.jakarta.go.id/datase
 
 ## Flowchart
 ![CapstoneProject/Gambar/Flowchart AutoAI.png](https://github.com/syifayaaa/CapstoneProject/blob/main/CapstoneProject/Gambar/Flowchart%20AutoAI.png)
+1. Pengguna mengirimkan dataset menggunakan pengaturan default Auto AI.
+2. Menghasilkan model pipeline. Model pipeline pilihan dari papan peringkat disimpan sebagai model/notebook Jupyter.
+3. Model/Notebook Jupyter dijalankan dan pipeline yang dimodifikasi dibuat di dalam model/notebook.
+4. Model pipeline digunakan di Watson Machine Learning untuk mendapatkan hasil prediksi dari dataset.
 
 ## Included components
 *	[IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) - IBM Watson® Studio helps data scientists and analysts prepare data and build models at scale across any cloud.
