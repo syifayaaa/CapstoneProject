@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Prediksi Indeks Pencemaran Air Sumur
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href='../static/style.css'
+    />
+  </head>
+  <body>
+    <nav class="nav">
+      <!-- <span></span> -->
+      <img
+        class="imgIBM github-nav"
+        src='../static/IL.png'
+        alt=""
+      />
+      <h1>Prediksi Indeks Pencemaran Air Sumur</h1>
+      <div></div>
+    </nav>
+    <div class="container">
+      <form method="POST">
+        <div class="form-group">
+          <label for="periode_pengujian">Periode Pengujian:</label>
+          <input type = "text" name="periode_pengujian" id="periode_pengujian" required>
+        </div>
+
+        <div class="form-group">
+          <label for="nama_lokasi">Nama Lokasi:</label>
+          <input type = "text" name="nama_lokasi" id="nama_lokasi" required>
+        </div>
+
+        <div class="form-group">
+          <label for="parameter">Parameter:</label>
+          <input type = "text" name="parameter" id="parameter" required>
+        </div>
+
+          <label for="satuan">Satuan:</label>
+          <input type = "text" name="satuan" id="satuan" required>
+        
+
+          <label for="nilai">Nilai:</label>
+          <input type = "text" name="nilai" id="nilai" required>
+        
+
+
+        <input type="submit" value="Predict" />
+      </form>
+      {% if prediction %}
+      <div class="result">
+          <h2>Prediction Result</h2>
+          <p>Predicted Value: {{ prediction }}</p>
+      </div>
+      {% endif %}
+    </div>
+    <footer class="footer">
+      <img class="" src='../static/IBM.png' alt="" />
+      <img
+        class="imgBottom"
+        src='../static/diagram-removebg-preview.png'
+        alt=""
+      />
+      <img class="" src='../static/GitHub-Logo.png' alt="" />
+    </footer>
+  </body>
+</html>
